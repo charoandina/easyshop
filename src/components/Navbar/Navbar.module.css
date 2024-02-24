@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgba(134, 134, 134, 0.686);
+    justify-content: space-evenly;
+}
+
+.imagen{
+    width: 200px;
+    height: auto;
+
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.a{
+    text-decoration: none;
+    color: black;
+}
